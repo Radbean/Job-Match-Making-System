@@ -1,13 +1,10 @@
-#Reflection – Week 02
+#Reflection – Week 03
 
-1. What did I contribute this week? 
-- I helped create the project concept statement such as problem statement and project objectives; contributed ideas for the workflow diagram.
+1. What was the most challenging part of building the schedule?
+- Defining accurate task durations and dependencies in the project schedule.
 
-2. What did I learn about collaboration or planning?
-- I learned how to organize tasks using GitHub and how clear documentation supports teamwork.
+2. How did GitHub and Teams support your collaboration?
+- GitHub kept our files organized, and Teams made communication and feedback easy.
 
-3. What challenges did I face? 
-- Understanding how to visualize the AI workflow was challenging at first.
-
-4. What will I focus on next week?  
-- Next week, I will focus on dataset collection and resume parsing implementation.
+3. What tasks will you refine next week? 
+- Adjust project timelines and start dataset preparation for AI model training.
