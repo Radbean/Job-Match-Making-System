@@ -3,10 +3,10 @@ Job MatchMaking System
 
 ## Objectives
 This project aims to develop an intelligent AI-powered platform that efficiently connects IT job seekers with employers. Key objectives include:
--To automate the CV parsing and skill extraction process with over 90% accuracy.
--To develop a robust AI matching algorithm that suggests the top 3 most suitable job roles for a candidate with over 80% precision.
--To build a user-friendly web dashboard for both job seekers and employers to view matches, insights, and analytics.
--To reduce the average hiring cycle time by streamlining the initial screening and matching process.
+*To automate the CV parsing and skill extraction process with over 90% accuracy.
+*To develop a robust AI matching algorithm that suggests the top 3 most suitable job roles for a candidate with over 80% precision.
+*To build a user-friendly web dashboard for both job seekers and employers to view matches, insights, and analytics.
+*To reduce the average hiring cycle time by streamlining the initial screening and matching process.
 
 
 ## Deliverables
