@@ -1,6 +1,6 @@
 # Week 04 – Work Breakdown Structure (WBS)
 
-## Project Title: Convenient Store Inventory System
+## Project Title: Job Match-Making System
 
 ### Major Phases and Subtasks
 
@@ -14,7 +14,7 @@
 ## Data Collection & Sourcing
 | WBS ID | Subtask | Deliverable | Owner | Start | End |
 |--------|----------|--------------|--------|--------|-----|
-| 2.1 | Identify data sources (suppliers, inventory lists) | Data Source List | Muhammad Farouk | 13 Oct 2025 | 20 Oct 2025 |
+| 2.1 | Identify data sources | Data Source List | Muhammad Farouk | 13 Oct 2025 | 20 Oct 2025 |
 | 2.2 | Collect and clean data | Cleaned Dataset | Tee Kai En | 21 Oct 2025 | 10 Nov 2025 |
 | 2.3 | Upload and verify dataset | Verified Data Files | Team | 11 Nov 2025 | 24 Nov 2025 |
 
@@ -28,7 +28,7 @@
 ## AI Model Development (OCR & NLP)
 | WBS ID | Subtask | Deliverable | Owner | Start | End |
 |--------|----------|--------------|--------|--------|-----|
-| 4.1 | Collect training samples (receipts, item names) | Raw Training Data | Tee Kai En | 24 Nov 2025 | 10 Dec 2025 |
+| 4.1 | Collect training samples | Raw Training Data | Tee Kai En | 24 Nov 2025 | 10 Dec 2025 |
 | 4.2 | Train OCR/NLP model | Trained Model | Tee Kai En | 11 Dec 2025 | 15 Jan 2026 |
 | 4.3 | Evaluate and refine model performance | Model Report | Tee Kai En | 16 Jan 2026 | 26 Jan 2026 |
 
