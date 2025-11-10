@@ -53,5 +53,5 @@
 ## Integration Notes
 
 - The **AI Model Development** and **Frontend Development** phases have the highest cost due to intensive resource hours.
-- Costs are aligned with project milestones; e.g., model training coincides with the mid-project high-cost phase.
+- Costs are aligned with project milestones for example model training coincides with the mid-project high-cost phase.
 - High-cost tasks are scheduled in periods with minimal overlapping high-effort tasks to balance resource usage.
