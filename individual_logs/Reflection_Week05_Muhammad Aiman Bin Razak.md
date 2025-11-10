@@ -5,8 +5,11 @@
 
 ## 2. How could you reduce costs without affecting quality?
 -Use open-source tools instead of paid licenses.
+
 -Optimize cloud resources with spot instances.
+
 -Reuse existing code components.
+
 -Implement peer reviews to prevent rework.
 
 ## 3. How does resource allocation influence your schedule and overall success?
