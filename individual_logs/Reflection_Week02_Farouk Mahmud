@@ -1,0 +1,11 @@
+What did I contribute this week?
+This week, I contributed by spearheading the initial phase of our data acquisition strategy. I conducted extensive research to identify potential sources for resumes and job descriptions, including public datasets on platforms like Kaggle, potential APIs, and the feasibility of web scraping. I also began outlining the data structure we will need and documented the key attributes (e.g., skills, job titles, years of experience) essential for training our models.
+
+What did I learn about collaboration or planning?
+I learned that data acquisition is a foundational constraint that shapes the entire project. Our discussions highlighted that without the right data, even the most sophisticated model will fail. This forced us to think creatively and pragmatically, considering alternatives like synthetic data generation or a phased approach where we start with a smaller, curated dataset. I also realized the importance of clearly defining data privacy and ethics guidelines as a team before we collect any information.
+
+What challenges did I face?
+The most significant challenge I faced was the scarcity of high-quality, publicly available datasets for IT resumes and job descriptions that are both recent and comprehensive. Many existing datasets are outdated, lack diversity in roles, or do not have the clean, structured format needed for immediate use. Furthermore, navigating the legal and ethical considerations of web scraping and ensuring compliance with data protection laws (like GDPR) presented a complex, non-technical hurdle that requires careful planning.
+
+What will I focus on next week?
+Next week, I will focus on creating a concrete data acquisition plan. This involves finalizing a decision on whether to use a curated public dataset, begin a carefully managed web scraping initiative, or develop a script to generate synthetic data for initial prototyping. I will also draft a data annotation guide so that once we have raw data, the team can efficiently label it for model training. My goal is to secure a viable dataset that will allow us to begin building and testing our CV parsing and skill extraction modules.
