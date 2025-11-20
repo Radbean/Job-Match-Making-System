@@ -1,0 +1,12 @@
+Reflection – Week 03
+What did I contribute this week?
+This week, I took the lead on developing a detailed project schedule, breaking down our high-level approach into specific, time-bound tasks. I mapped out the dependencies between different components, such as ensuring the dataset is prepared before we can begin model training. I also facilitated our team's collaboration by setting up and maintaining our GitHub repository and Teams channels, ensuring a smooth workflow for file sharing and communication.
+
+What did I learn about collaboration or planning?
+I learned that a project plan is a living document, not a static one. Through discussion, we realized that our initial time estimates were optimistic, and we had to collaboratively adjust them to be more realistic. Using GitHub for version control was crucial; it taught us the importance of clear commit messages and branch management to avoid conflicts. Teams supported this by providing a central hub for quick questions and decision-making, which kept our planning dynamic and inclusive.
+
+What challenges did I face?
+The most challenging part was defining accurate task durations and dependencies. Without prior experience in a project of this exact scope, it was difficult to predict how long complex tasks like "develop the AI recommendation engine" would truly take. We had to break these large epics into smaller, more manageable sub-tasks (e.g., "data preprocessing," "feature engineering," "model selection," "hyperparameter tuning") to create a more accurate and feasible timeline.
+
+What will I focus on next week?
+Next week, I will focus on refining the project timelines based on our initial progress and will officially begin the dataset preparation phase. My specific goal is to finalize our data source, begin the collection process, and start cleaning the raw data to make it suitable for AI model training. This is a critical step that unlocks all subsequent development.
