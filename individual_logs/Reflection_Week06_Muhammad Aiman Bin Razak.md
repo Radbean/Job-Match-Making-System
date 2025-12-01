@@ -1,4 +1,4 @@
-# Individual Reflection - Week 06 - [Your Name]
+# Individual Reflection - Week 06 - [MUHAMMAD AIMAN BIN RAZAK]
 
 ## Reflection Questions
 
