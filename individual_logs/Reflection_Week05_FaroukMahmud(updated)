@@ -1,0 +1,14 @@
+Week 05 Reflection – Cost Management
+
+1. Which project phase has the highest cost and why?
+Based on our preliminary budget, the Frontend and Dashboard Development** phase is projected to have the highest cost. This is primarily due to its high labor intensity and complexity. Creating an intuitive, responsive user interface that seamlessly integrates with the backend AI services (like the recommendation engine and parsed data display) requires extensive collaborative effort. This phase involves significant design iteration, user experience testing, and cross-functional work between front-end developers, back-end engineers, and AI specialists, causing the accumulated person-hours—and therefore cost—to be substantially higher than in other phases.
+
+2. How could you reduce costs without affecting quality?
+We could pursue several strategies to optimize costs without compromising the project's integrity or output quality:
+Leverage Open-Source Technologies: Commit to using mature open-source frameworks and libraries (like React, Flask, Scikit-learn) instead of paid proprietary software licenses.
+Optimize Cloud Infrastructure:  For model training and deployment, use cloud spot instances for non-time-sensitive workloads and implement auto-scaling to pay only for the compute resources we actively use.
+Promote Code Reusability: Build a shared component library for the frontend and standardize data processing modules to avoid duplicating development effort.
+Implement Rigorous Peer Review: Establish a mandatory code and design review process to catch errors early, preventing costly rework and technical debt in later stages.
+
+3. How does resource allocation influence your schedule and overall success?
+Effective resource allocation is the linchpin connecting our budget, schedule, and final outcome. Assigning the right person with the appropriate skills to each task maximizes efficiency and quality, directly preventing delays and budget overruns. Proactive allocation allows us to identify resource bottlenecks—like a key developer being over-tasked—before they cause schedule slippage. Ultimately, intelligent resource management ensures our team's capacity is aligned with the project's critical path, which is fundamental to delivering a successful, high-quality system on time.
