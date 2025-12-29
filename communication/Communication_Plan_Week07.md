@@ -21,9 +21,9 @@
 4. **Confidentiality**: Sensitive project data shared only via secure channels
 5. **Feedback**: All stakeholders can provide feedback via designated forms
 
-## Tools & Platforms
+## Tools And Platforms
 
 - **Formal Communication**: Microsoft Teams, Email
-- **Document Sharing**: GitHub, Google Drive
+- **Document Sharing**: GitHub
 - **Collaboration**: GitHub Projects, Trello
-- **Feedback Collection**: Google Forms, SurveyMonkey
+- **Feedback Collection**: Google Forms
