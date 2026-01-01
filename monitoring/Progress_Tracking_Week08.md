@@ -1,6 +1,19 @@
 # Progress Tracking - Week 08
 ## Job Match-Making System
 
+## Task 1 – Project Baseline Summary
+- **Planned Duration:** 6 Oct 2025 – 19 Feb 2026 (4.5 months)
+- **Planned Budget:** RM 4,950
+- **Key Milestones:**
+  1. Project Scope Approval – 3 Nov 2025
+  2. Data Collection Complete – 24 Nov 2025
+  3. Backend Development Complete – 26 Jan 2026
+  4. AI Model Training Complete – 26 Jan 2026
+  5. System Integration Complete – 9 Feb 2026
+  6. UAT Complete – 16 Feb 2026
+  7. Final Delivery – 19 Feb 2026
+
+## Task 2 – Progress Tracking
 ## Current Project Status (Mid-Project)
 
 | Task | Planned % | Actual % | Status | Notes |
@@ -27,3 +40,17 @@
    - Planned: 60% complete
    - Actual: 40% complete
    - Delay: 20%
+
+## Task 3 – Performance Analysis
+**1. Which tasks show the largest deviation?**
+- AI Model Development (OCR & NLP): 30% behind
+- Backend Development: 20% behind
+
+**2. Possible causes:**
+- AI: Insufficient training data, computational delays
+- Backend: Developer overloaded, complex database schema
+
+**3. Issue categories:**
+- Scope: AI complexity underestimated
+- Resources: Single developer handling multiple tasks
+- Schedule: Task dependencies not fully planned
