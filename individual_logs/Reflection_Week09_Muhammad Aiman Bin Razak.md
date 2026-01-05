@@ -1,7 +1,7 @@
 # Reflection - Week 09
 ## Time Management & Critical Path Analysis
 
-**Name:** [Your Name]
+**Name:** MUHAMMAD AIMAN BIN RAZAK
 
 ## 1. Why is identifying the critical path important?
 
