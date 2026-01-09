@@ -1,0 +1,13 @@
+Project Reflection – Week 06: Risk Management
+
+1. What did I contribute this week?
+This week, I led the development of a comprehensive Project Risk Register for our Job MatchMaking System. I facilitated a "pre-mortem" session with the team to identify potential technical, operational, and external risks. Specifically, I focused on categorizing risks related to our AI models, such as "Model Drift" and "Low Parsing Accuracy," and worked with Tee Kai En to define technical mitigation strategies. I also documented these risks in our GitHub repository under /risk_management/Risk_Register_Week06.md, assigning probability and impact scores to each.
+
+2. What did I learn about collaboration or planning?
+I learned that risk management is not about being pessimistic, but about being proactive rather than reactive. Through our team discussions, I realized that everyone perceives risk differently; for instance, while I was concerned about budget overruns, Aiman was more concerned about the technical risk of API latency. This taught me that collaborative risk identification provides a much more holistic view of the project’s health. I also learned the importance of having a "Contingency Reserve"—both in terms of time and budget—to handle unforeseen issues without crashing the entire schedule.
+  
+3. What challenges did I face?
+The primary challenge was quantifying "High-Uncertainty" risks. It is difficult to accurately estimate the probability of a "Black Box" AI failure or the exact likelihood of a third-party API going down. Another challenge was navigating the legal and ethical risks associated with handling personal data from resumes. We had to spend significant time researching Malaysian Data Protection laws (PDPA) to ensure our system's risk mitigation plan included proper data anonymization and secure storage protocols.
+
+4. What will I focus on next week?
+Next week, I will transition from internal project risks to external influences by focusing on Stakeholder and Communication Management. My primary goals are to:
